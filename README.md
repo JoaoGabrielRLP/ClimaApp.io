@@ -1,4 +1,4 @@
-# Weather App 🌦️
+# Clima App 🌦️
 
 Este é um aplicativo web simples de previsão do tempo que permite aos usuários pesquisar pelo clima de qualquer cidade em tempo real. Ele usa a API do OpenWeatherMap para obter informações como temperatura, descrição do clima, umidade e velocidade do vento.
 
