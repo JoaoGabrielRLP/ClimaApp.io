@@ -56,9 +56,6 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 4. Faça um **push** para o branch (`git push origin feature-nova`)
 5. Abra um **Pull Request**
 
-## 📜 Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ---
 
 Feito com ❤️ por [João Gabriel](https://github.com/JoaoGabrielRLP) 🚀
